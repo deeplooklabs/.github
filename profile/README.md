@@ -1,4 +1,4 @@
-# <p align="center" width="100px" heigth="100px">![](logo.png)</p>
+# <p align="center" width="100px" heigth="100px">![](https://raw.githubusercontent.com/deeplooklabs/assets/d8e6c7ad8fa6892b187c0878ac10196498d9197a/logo.png)</p>
 
 ## About Us
 At DeepLook Labs, we are dedicated to revolutionizing the automation and discovery of assets for businesses while ensuring their security through vulnerability assessment. Our mission is to facilitate and streamline the process of identifying assets and verifying them for known vulnerabilities and internal 0day exploits. We achieve this through a combination of automated and contracted projects, harnessing the power of technology to enhance security measures.
